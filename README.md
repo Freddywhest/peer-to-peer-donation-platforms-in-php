@@ -31,7 +31,9 @@ Password -> 123
 
 ---------------------------------------------------------------------
 
-For security reasons I have put password on the zip file, If you need this file contact me on the below details for the password. NB: **NO PAYMENT** it's free but you will need to answer some questions.
+For security reasons I have put password on the zip file, If you need this file contact me on the below details for the password. 
+
+NB: **NO PAYMENT** it's free but you will need to answer some questions.
 
 ***** CONTACT DETAILS: *****  
 
