@@ -13,14 +13,14 @@ Please read the guidlines below to understand how to proceed.
 DEMO LINK:
 https://p2pdemo.alfrednti.com
 
-Admin login details
+**Admin login details**
 
 Email -> admin@admin.com
 
 Password -> 123
 
 
-User login details
+**User login details**
 
 Email -> user@user.com
 
